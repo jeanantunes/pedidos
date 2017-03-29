@@ -1,0 +1,15 @@
+br/com/bluesoft/desafio/service/PedidosService.class
+br/com/bluesoft/desafio/model/Fornecedor.class
+br/com/bluesoft/desafio/repository/PrecosRepository.class
+br/com/bluesoft/desafio/view/ErroView.class
+br/com/bluesoft/desafio/repository/FornecedorRepository.class
+br/com/bluesoft/desafio/repository/ProdutoRepository.class
+br/com/bluesoft/desafio/api/ProdutoController.class
+br/com/bluesoft/desafio/api/PedidosController.class
+br/com/bluesoft/desafio/service/ProdutoService.class
+br/com/bluesoft/desafio/model/Precos.class
+br/com/bluesoft/desafio/model/Produto.class
+br/com/bluesoft/desafio/api/FornecedorController.class
+br/com/bluesoft/desafio/DesafioApplication.class
+br/com/bluesoft/desafio/api/ApiExceptionHandler.class
+br/com/bluesoft/desafio/api/PrecosController.class
