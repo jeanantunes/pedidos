@@ -6,5 +6,6 @@ import org.springframework.data.repository.CrudRepository;
 /**
  * Created by Jean Antunes on 23/03/17.
  */
+
 public interface PrecosRepository extends CrudRepository<Precos, String> {
 }

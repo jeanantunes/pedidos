@@ -6,6 +6,7 @@ import javax.persistence.Id;
 /**
  * Created by Jean Antunes on 28/03/17.
  */
+
 @Entity
 public class Produto {
 
